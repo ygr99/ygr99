@@ -1,48 +1,35 @@
-# Hi there 👋, this is [ygr99](https://xn--4gqta1h0zg9yuu7a.fun)
+## [我是一个人丶99](https://xn--4gqta1h0zg9yuu7a.fun)
 
-<!--
-# Hi there 👋, this is [Geniucker](https://blog.geniucker.top)
-**Geniucker/Geniucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java 后端初级菜鸟
 
-Here are some ideas to get you started:
+### ✨ 我的技能(my skills)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
+![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
 
-- 👨‍💻 I’m currently using Python, Go, C, C++, currently learning something about network.  
-- 💬 Ask me about anything [here](mailto:me@geniucker.top)  
-My GPG public key: [BFA7B51898906892CB62678D99A0166860324141](https://keys.openpgp.org/search?q=BFA7B51898906892CB62678D99A0166860324141).You can send me encrypted email.  
+![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
+![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
+![](https://img.shields.io/badge/-SpringBoot-5FB832?style=flat-square&logo=SpringBoot&logoColor=fff)
 
-## My GitHub Stats
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geniucker&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geniucker&count_private=true&show_icons=true&layout=compact&hide_border=true&hide=html,javascript,css&theme=transparent" />
-  </a>
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geniucker/Geniucker/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Geniucker/Geniucker/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Geniucker/Geniucker/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
+![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ygr99&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygr99&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
--->
 
- 
-- 🔭 目前大四
-- 🌱 正在学习 Java
-- 👯 希望找到一份 Java 工作
+![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
-## My GitHub Stats
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+
+
+
+
+
+### 今年汇总(This year's summary) ✨
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ygr99&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
