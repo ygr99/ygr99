@@ -2,7 +2,7 @@
 
 - Java 后端初级菜鸟
 
-### ✨ 我的技能(my skills)
+### ✨ 我的技能
 
 ![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
@@ -26,15 +26,5 @@
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 
 
-
-
-
-### 今年汇总(This year's summary) ✨
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ygr99&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygr99&count_private=true&show_icons=true&layout=compact&hide_border=true&hide=html,javascript,css&theme=transparent" />
-  </a>
-</div>
+### ✨ 今年汇总
+![GitHub Stats SVG](https://stats-svg.vercel.app/api/github-status?username=ygr99)
